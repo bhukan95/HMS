@@ -1,0 +1,4 @@
+Report-ID,Appointment-ID,Patient-ID,Doctor-ID,Patient-Name,Doctor-Name,Problem,Precription,Comments
+1,1,1,11,Ayushi,Deepak,headache,NOTHING,TAKE REST
+2,2,15,7,Hiral,Ankita,Running Nose,Coffsil,Don't drink or eat cold things
+3,3,18,13,Rajvi,Harish,Throat,Throates,Gargling with hot water
